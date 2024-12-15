@@ -2,36 +2,26 @@
 
 اولا انسخ المشروع : 
 ```
-
 git clone https://github.com/Ahmed-Dzair-Dev/40-hadith-nawawi.git
-
 ```
 
 
 حمل المكتبات اللازمة لعملية البناء :
 ```
-
 sudo apt-get install libgtk-3-dev
-
 ```
 
 ```
-
 sudo apt-get install libjson-c-dev
-
 ```
 
 حمل الخطوط :
 ```
-
 sudo apt-get install fonts-noto-core
-
 ```
 
 ```
-
 sudo apt install fonts-hosny-amiri
-
 ```
 
 ثم :
