@@ -1,6 +1,6 @@
 # 40-hadith-nawawi
 
-اولا انسخ ال repo : 
+اولا انسخ المشروع : 
 git clone https://github.com/Ahmed-Dzair-Dev/40-hadith-nawawi.git
 
 
