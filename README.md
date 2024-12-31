@@ -1,5 +1,7 @@
 # 40-hadith-nawawi
 
+# لم اتحقق من صحة كل الأحاديث لا تنقل نقل العميان ! 
+
 اولا انسخ المشروع : 
 ```
 git clone https://github.com/Ahmed-Dzair-Dev/40-hadith-nawawi.git
