@@ -86,7 +86,7 @@ sudo dnf install gcc
 و من أجل عملية البناء :
 ```
 
-cd hadith-viewer
+cd 40-hadith-nawawi
 
 mkdir build
 
