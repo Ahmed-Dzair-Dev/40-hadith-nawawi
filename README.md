@@ -3,12 +3,20 @@
 # لم اتحقق من صحة كل الأحاديث لا تنقل نقل العميان ! 
 
 اولا انسخ المشروع : 
+
+بنسبة ل # Debian و # Ubuntu :
+```
+git clone https://github.com/Ahmed-Dzair-Dev/40-hadith-nawawi.git
+```
+بنسبة ل # Fedora :
 ```
 git clone https://github.com/Ahmed-Dzair-Dev/40-hadith-nawawi.git
 ```
 
-
 حمل المكتبات اللازمة لعملية البناء :
+
+بنسبة ل # Debian و # Ubuntu :
+
 ```
 sudo apt-get install libgtk-3-dev
 ```
@@ -16,8 +24,19 @@ sudo apt-get install libgtk-3-dev
 ```
 sudo apt-get install libjson-c-dev
 ```
+بنسبة ل # Fedora :
 
+```
+sudo dnf install gtk3-devel
+```
+
+```
+sudo dnf install json-c-devel
+```
 حمل الخطوط :
+
+بنسبة ل # Debian و # Ubuntu :
+
 ```
 sudo apt-get install fonts-noto-core
 ```
@@ -25,6 +44,15 @@ sudo apt-get install fonts-noto-core
 ```
 sudo apt install fonts-hosny-amiri
 ```
+بنسبة ل # Fedora :
+```
+sudo dnf install google-noto-fonts
+```
+
+```
+sudo dnf install amiri-fonts
+```
+
 
 ثم :
 
